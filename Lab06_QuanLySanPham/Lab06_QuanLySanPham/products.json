@@ -1,0 +1,72 @@
+[
+  {
+    "MaSP": "SP01",
+    "TenSP": "Bàn phím cơ AKKO 3087 v2",
+    "LoaiSP": "Điện tử",
+    "DonGia": 1250000,
+    "SoLuong": 15,
+    "NgayNhap": "2026-09-21T08:30:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP02",
+    "TenSP": "Ghế công thái học Sihoo M57",
+    "LoaiSP": "Văn phòng",
+    "DonGia": 3450000,
+    "SoLuong": 4,
+    "NgayNhap": "2026-09-26T10:15:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP03",
+    "TenSP": "Nồi chiên không dầu Philips HD9252",
+    "LoaiSP": "Gia dụng",
+    "DonGia": 2190000,
+    "SoLuong": 20,
+    "NgayNhap": "2026-09-29T14:00:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP04",
+    "TenSP": "Áo khoác gió thể thao Uniqlo UV",
+    "LoaiSP": "Thời trang",
+    "DonGia": 590000,
+    "SoLuong": 0,
+    "NgayNhap": "2026-09-06T09:00:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP05",
+    "TenSP": "Màn hình Dell UltraSharp U2422H",
+    "LoaiSP": "Điện tử",
+    "DonGia": 5890000,
+    "SoLuong": 8,
+    "NgayNhap": "2026-10-03T16:45:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP06",
+    "TenSP": "Bút ký cao cấp Parker Jotter",
+    "LoaiSP": "Văn phòng",
+    "DonGia": 450000,
+    "SoLuong": 2,
+    "NgayNhap": "2026-09-16T11:20:00",
+    "ConKinhDoanh": false,
+    "DuongDanAnh": ""
+  },
+  {
+    "MaSP": "SP07",
+    "TenSP": "Tai nghe chống ồn Sony WH-1000XM5",
+    "LoaiSP": "Điện tử",
+    "DonGia": 6990000,
+    "SoLuong": 12,
+    "NgayNhap": "2026-10-01T13:10:00",
+    "ConKinhDoanh": true,
+    "DuongDanAnh": ""
+  }
+]
