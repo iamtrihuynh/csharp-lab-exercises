@@ -427,3 +427,28 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ==========================================
+# Bổ sung riêng cho Windows & Bài tập Lab
+# ==========================================
+
+# 1. File rác hệ điều hành Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+
+# 2. File kết quả sinh ra khi chạy code (Lab 03 xử lý file)
+# Giữ lại HinhHoc.txt (file input đề bài), nhưng chặn commit file kết quả:
+output.txt
+**/output.txt
+
+# 3. File sao lưu CSDL SQL Server (tránh đẩy file backup nặng hàng trăm MB lên Git)
+*.bak
+*.sqlplan
+
+# 4. File tạm của trình soạn thảo khác (nếu có mở qua VS Code hoặc Notepad++)
+.vscode/
+*.bak
+*~
